@@ -1,7 +1,7 @@
 ### Hey, how have you been?
 ### Welcome to my profile, I'm Rafael Fonseca!
 
-- 🌱 I’m currently learning Java and Python😎
+- 🌱 I’m currently learning Java, Python and the Flutter framework 😎
 
 <div>
   <a href="https://github.com/Fael123Programming">
