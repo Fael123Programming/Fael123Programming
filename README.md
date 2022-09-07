@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/Fael123Programming">
   <img src="https://github-readme-stats.vercel.app/api?username=Fael123Programming&show_icons=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fael123Programming&layout=compact&langs_count=16&theme=dark">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fael123Programming&layout=compact&langs_count=5">  
 </div>  
 
 <div style="display: inline_block"> <br>
